@@ -1,3 +1,20 @@
+## Redux Forms Sample
+
+This sample is just a proof of concept around using react/redux along with react-forms ( http://redux-form.com/6.0.1/ )
+
+
+ 
+ ```
+ npm install
+ ```
+ 
+ ```
+ npm start
+ ```
+ 
+ See below reference for any items
+
+## Create-React-App reference:
 Below you will find some information on how to perform common tasks.  
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/template/README.md).
 
